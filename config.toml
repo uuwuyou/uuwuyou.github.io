@@ -1,4 +1,4 @@
-baseurl = “http://uuwuyou.github.io”
+baseurl = "https://uuwuyou.github.io/“
 languageCode = "en-us"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
