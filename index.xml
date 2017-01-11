@@ -15,11 +15,8 @@
       <pubDate>Wed, 11 Jan 2017 11:04:43 +0800</pubDate>
       
       <guid>http://replace-this-with-your-hugo-site.com/posts/second/</guid>
-      <description>
-
-&lt;h2 id=&#34;12222222222&#34;&gt;12222222222&lt;/h2&gt;
-
-&lt;p&gt;22222222222&lt;/p&gt;
+      <description>##  12222222222
+22222222222
 </description>
     </item>
     
@@ -29,15 +26,13 @@
       <pubDate>Tue, 01 Dec 2015 12:55:48 +0800</pubDate>
       
       <guid>http://replace-this-with-your-hugo-site.com/posts/hugo-create-blog/</guid>
-      <description>
+      <description>......
 
-&lt;p&gt;&amp;hellip;&amp;hellip;&lt;/p&gt;
-
-&lt;h1 id=&#34;吴悠&#34;&gt;吴悠&lt;/h1&gt;
-
-&lt;p&gt;吴悠
+# 吴悠
 吴悠
-这次一定要成功&lt;/p&gt;
+吴悠
+这次一定要成功
+
 </description>
     </item>
     
