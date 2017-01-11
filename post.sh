@@ -1,1 +1,0 @@
-hugo new $1
